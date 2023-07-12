@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\DUNITECHi5\\Desktop\\hardhat\\contracts\\token.sol": {
+      "lastModificationDate": 1689076677263,
+      "contentHash": "be728cd6dbdf021fb7502e4f60d3e03c",
+      "sourceName": "contracts/token.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.18"
+      ],
+      "artifacts": [
+        "IRC20",
+        "mycrpt"
+      ]
+    }
+  }
+}
